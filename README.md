@@ -1,2 +1,1 @@
-# rholesen.github.io
-Website
+# hjemmeside

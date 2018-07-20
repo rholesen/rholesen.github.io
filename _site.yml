@@ -1,0 +1,20 @@
+name: "Rasmus H. Olesen"
+output_dir: "."
+navbar:
+  title: "Rasmus H. Olesen"
+  left:
+    - text: "About"
+      href: research.html
+    - text: "CV"
+      href: talks.html
+    - text: "Teaching"
+      href: teaching.html
+  right:
+    - icon: fa-github fa-lg
+      href: http://github.com/rholesen
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/rholesen
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
